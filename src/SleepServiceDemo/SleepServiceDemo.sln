@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleepServiceConsole", "Slee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleepService", "SleepService\SleepService.csproj", "{4DDA880D-9E17-4043-94A6-C4433D98ED09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleepEntity", "SleepEntity\SleepEntity.csproj", "{0E5AAC2A-C7A6-4BCD-8005-F2EFDD10C0BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4DDA880D-9E17-4043-94A6-C4433D98ED09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DDA880D-9E17-4043-94A6-C4433D98ED09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DDA880D-9E17-4043-94A6-C4433D98ED09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5AAC2A-C7A6-4BCD-8005-F2EFDD10C0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5AAC2A-C7A6-4BCD-8005-F2EFDD10C0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5AAC2A-C7A6-4BCD-8005-F2EFDD10C0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5AAC2A-C7A6-4BCD-8005-F2EFDD10C0BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
