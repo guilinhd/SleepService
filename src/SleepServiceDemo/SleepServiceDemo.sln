@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SleepEntity", "SleepEntity\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreathService", "BreathService\BreathService.csproj", "{5A085AA1-C19C-4A01-93E7-0F28BF4CDAD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeartBeatService", "HeartBeatService\HeartBeatService.csproj", "{C333A3A6-995D-44B7-95F8-DC8053AD0B2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5A085AA1-C19C-4A01-93E7-0F28BF4CDAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A085AA1-C19C-4A01-93E7-0F28BF4CDAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A085AA1-C19C-4A01-93E7-0F28BF4CDAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C333A3A6-995D-44B7-95F8-DC8053AD0B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C333A3A6-995D-44B7-95F8-DC8053AD0B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C333A3A6-995D-44B7-95F8-DC8053AD0B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C333A3A6-995D-44B7-95F8-DC8053AD0B2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
